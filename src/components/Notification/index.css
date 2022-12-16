@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.notification-container {
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+  margin: 10px 0px;
+}
+.card {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.close-logo {
+}

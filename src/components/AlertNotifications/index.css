@@ -1,0 +1,70 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 4px;
+  font-family: 'Roboto';
+}
+.heading {
+  text-align: center;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.desc-container {
+  margin-left: 40px;
+}
+/* success card */
+.success-heading {
+  color: #2dca73;
+  font-size: 20px;
+}
+.success-logo {
+  color: #2dca73;
+  font-size: 24px;
+  margin-top: 16px;
+  align-self: flex-start;
+}
+
+.desc {
+  color: #64748b;
+  font-size: 14px;
+  font-weight: 500;
+}
+/* error-card */
+.error-logo {
+  color: #ff0b37;
+  font-size: 24px;
+  margin-top: 16px;
+  align-self: flex-start;
+}
+.error-heading {
+  color: #ff0b37;
+  font-size: 20px;
+}
+/* info-card */
+
+.info-logo {
+  color: #0f81e0;
+  font-size: 24px;
+  margin-top: 16px;
+  align-self: flex-start;
+}
+.info-heading {
+  color: #0f81e0;
+  font-size: 20px;
+}
+
+/* wraning - card */
+
+.warning-logo {
+  color: #ffb800;
+  font-size: 24px;
+  margin-top: 16px;
+  align-self: flex-start;
+}
+.warning-heading {
+  color: #ffb800;
+  font-size: 20px;
+}
